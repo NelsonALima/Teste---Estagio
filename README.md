@@ -17,6 +17,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 (Arquivo . jason - https://drive.google.com/file/d/1qXvCPjEL4jerElN-hnScoKkEVmSQ8A2L/view)
+
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
